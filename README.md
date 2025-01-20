@@ -1,2 +1,2 @@
 # milp-in-docker
-Experimenting with simple milp solvers via a docker image
+Experimenting with milp solvers via a docker image
